@@ -1,0 +1,36 @@
+{
+  "name": "beluga",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^3.21.4",
+    "isomorphic-unfetch": "^3.0.0",
+    "md5": "^2.2.1",
+    "next": "9.0.3",
+    "react": "16.9.0",
+    "react-copy-to-clipboard": "^5.0.1",
+    "react-dom": "16.9.0",
+    "react-virtualized": "^9.21.1"
+  },
+  "devDependencies": {
+    "@types/enzyme": "^3.10.3",
+    "@types/enzyme-adapter-react-16": "^1.0.5",
+    "@types/jest": "^24.0.17",
+    "@types/md5": "^2.1.33",
+    "@types/node": "^12.7.2",
+    "@types/react-virtualized": "^9.21.4",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.3"
+  }
+}
